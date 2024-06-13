@@ -27,4 +27,9 @@ This is the main application file that sets up the Flask server and routes for t
 
 ### templates/home.html
 This HTML file is the template for displaying the weather data. It should be placed in a templates folder at the same level as main.py.
+## Images
 ![Screenshot 2024-06-13 at 6 15 22 PM](https://github.com/ArpitChb2704/Weather-Data-API/assets/156332722/34ced7a5-5d15-4b9b-95db-85dfab9b8c9a)
+![Screenshot 2024-06-13 at 6 26 59 PM](https://github.com/ArpitChb2704/Weather-Data-API/assets/156332722/e874f287-9c4b-42d5-9256-acaae90523ce)
+![Screenshot 2024-06-13 at 6 27 27 PM](https://github.com/ArpitChb2704/Weather-Data-API/assets/156332722/2ae289be-e9e9-433e-a386-0dc77e14e31b)
+
+
